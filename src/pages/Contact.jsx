@@ -7,7 +7,7 @@ const Contact = () => {
       <p>
         If you have any questions, feedback, or suggestions, feel free to reach out to us. We'd love to hear from you!
       </p>
-      <p>Email: <a href="mailto:hasanmrizvi72@gmail.com" className="text-blue-600">malonisonwabiso@gmail.com</a></p>
+      <p>Email: <a href="mailto:hasanmrizvi72@gmail.com" className="text-blue-600">hasanmrizvi72@gmail.com</a></p>
     </div>
   );
 };
